@@ -1,3 +1,8 @@
+#https://www.terraform.io/docs/language/expressions/for.html
+#https://www.terraform.io/docs/language/meta-arguments/for_each.html#referring-to-instances
+#https://www.terraform.io/docs/language/meta-arguments/for_each.html#chaining-for_each-between-resources
+#https://www.terraform.io/docs/language/expressions/splat.html#splat-expressions-with-maps
+
 terraform {
   required_version = ">= 0.12.6"
 }
